@@ -1,6 +1,7 @@
 /**
  * dispays message param to output
- * @param - message
+ * @param {String} message
+ * @author Sami Wafula <https://github.com/Sami-Wafula>
  */
 
 const displayMessage = (msg) => {
