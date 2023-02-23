@@ -1,5 +1,6 @@
 /**
  * dispays message param to output
+ * @param - message
  */
 
 const displayMessage = (msg) => {
